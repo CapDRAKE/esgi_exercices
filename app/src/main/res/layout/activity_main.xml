@@ -34,9 +34,6 @@
         tools:layout_editor_absoluteX="85dp"
         tools:layout_editor_absoluteY="184dp"></ImageView>
 
-    <!--tools:layout_editor_absoluteX="94dp"
-        tools:layout_editor_absoluteY="471dp"-->
-
 
     <TextView
         android:id="@+id/sub_title"
