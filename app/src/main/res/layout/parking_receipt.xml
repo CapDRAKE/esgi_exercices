@@ -30,9 +30,10 @@
         android:layout_height="568dp"
         app:cardCornerRadius="35dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteY="115dp" />
+        tools:layout_editor_absoluteY="107dp" />
 
     <Button
         android:id="@+id/button"
